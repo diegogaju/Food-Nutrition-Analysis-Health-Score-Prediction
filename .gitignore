@@ -1,0 +1,20 @@
+# secrets
+.env
+
+# virtual environment
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# raw data files (large, dated)
+data/raw_*.json
+
+# logs
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db

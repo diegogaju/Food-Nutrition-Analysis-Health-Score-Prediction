@@ -1,0 +1,8 @@
+requests
+psycopg2-binary
+pandas
+python-dotenv
+pytest
+matplotlib
+seaborn
+scikit-learn
